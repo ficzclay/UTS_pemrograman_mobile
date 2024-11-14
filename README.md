@@ -15,30 +15,7 @@
 ![alt text](img/storyboard.png)
 
 
-
-
-
-
-**2. Mockup**
-
-![alt text](img/mockup.png)
-
-
-**3. UI & UX**
-
-
-![alt text](img/1.png)
-
-![alt text](img/2.png)
-
-![alt text](img/3.png)
-
-![alt text](img/4.png)
-
-![alt text](img/5.png)
-
-![alt text](img/6.png)
-
-![alt text](img/7.png)
-
-![alt text](img/8.png)
+1. Pada Main List View, terdapat kolom pencarian yaitu search notes yang bisa digunakan untuk mencari notes yang diinginkan.
+2. Pada Search Results, berisi hasil dari pencarian yang ditulis oleh user dari search notes.
+3. Jika long press / menekan lama pada bagian notes, maka terdapat opsi mark / unmark (untuk menandai notes dan menghapus mark pada note) dan delete (untuk menghapus note)
+4. Jika kita Menambahkan note, maka terdapat title dan kolom add notes yang bisa diisi
